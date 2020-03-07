@@ -1,0 +1,6 @@
+teste para função add do git
+
+no promtet de comando do GIT digitar:
+git add e o caminho do arquivo.
+
+Com isso o arquivo é atualizado no site.
